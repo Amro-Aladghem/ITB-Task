@@ -3294,11 +3294,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Khaled\\Desktop\\Task Backend\\CompanyTask\\CompanyTask.csproj",
+      "projectUniqueName": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\CompanyTask\\CompanyTask.csproj",
       "projectName": "CompanyTask",
-      "projectPath": "C:\\Users\\Khaled\\Desktop\\Task Backend\\CompanyTask\\CompanyTask.csproj",
+      "projectPath": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\CompanyTask\\CompanyTask.csproj",
       "packagesPath": "C:\\Users\\Khaled\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Khaled\\Desktop\\Task Backend\\CompanyTask\\obj\\",
+      "outputPath": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\CompanyTask\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3319,8 +3319,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Khaled\\Desktop\\Task Backend\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Services\\Services.csproj"
+            "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\Services\\Services.csproj"
             }
           }
         }

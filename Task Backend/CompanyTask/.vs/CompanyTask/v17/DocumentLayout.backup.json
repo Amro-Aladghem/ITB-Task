@@ -1,43 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Khaled\\Desktop\\Task Backend\\CompanyTask\\",
+  "WorkspaceRootPath": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\CompanyTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1295E086-7B6A-441B-AD77-CC22036F91E0}|CompanyTask.csproj|c:\\users\\khaled\\desktop\\task backend\\companytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1295E086-7B6A-441B-AD77-CC22036F91E0}|CompanyTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1295E086-7B6A-441B-AD77-CC22036F91E0}|CompanyTask.csproj|c:\\users\\khaled\\desktop\\itb task\\task backend\\companytask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1295E086-7B6A-441B-AD77-CC22036F91E0}|CompanyTask.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71EA2217-3E56-414E-867D-4220C8FCFD2F}|..\\Database\\Database.csproj|c:\\users\\khaled\\desktop\\task backend\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1295E086-7B6A-441B-AD77-CC22036F91E0}|CompanyTask.csproj|c:\\users\\khaled\\desktop\\task backend\\companytask\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1295E086-7B6A-441B-AD77-CC22036F91E0}|CompanyTask.csproj|c:\\users\\khaled\\desktop\\itb task\\task backend\\companytask\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1295E086-7B6A-441B-AD77-CC22036F91E0}|CompanyTask.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8F1E99A-615F-447F-847E-86915F2DA397}|..\\Services\\Services.csproj|c:\\users\\khaled\\desktop\\task backend\\services\\employeeservices\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8F1E99A-615F-447F-847E-86915F2DA397}|..\\Services\\Services.csproj|c:\\users\\khaled\\desktop\\itb task\\task backend\\services\\employeeservices\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8F1E99A-615F-447F-847E-86915F2DA397}|..\\Services\\Services.csproj|c:\\users\\khaled\\desktop\\task backend\\services\\employeeservices\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8F1E99A-615F-447F-847E-86915F2DA397}|..\\Services\\Services.csproj|c:\\users\\khaled\\desktop\\itb task\\task backend\\services\\employeeservices\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B34809-E879-44C2-A769-66FD357C1A1F}|..\\DTOs\\DTOs.csproj|c:\\users\\khaled\\desktop\\itb task\\task backend\\dtos\\employeedtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1295E086-7B6A-441B-AD77-CC22036F91E0}|CompanyTask.csproj|c:\\users\\khaled\\desktop\\itb task\\task backend\\companytask\\middlewares\\exceptionhandlemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1295E086-7B6A-441B-AD77-CC22036F91E0}|CompanyTask.csproj|solutionrelative:middlewares\\exceptionhandlemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B34809-E879-44C2-A769-66FD357C1A1F}|..\\DTOs\\DTOs.csproj|c:\\users\\khaled\\desktop\\itb task\\task backend\\dtos\\employeedtos\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B34809-E879-44C2-A769-66FD357C1A1F}|..\\DTOs\\DTOs.csproj|c:\\users\\khaled\\desktop\\itb task\\task backend\\dtos\\employeedtos\\updateemployedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1295E086-7B6A-441B-AD77-CC22036F91E0}|CompanyTask.csproj|c:\\users\\khaled\\desktop\\itb task\\task backend\\companytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1295E086-7B6A-441B-AD77-CC22036F91E0}|CompanyTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Task Backend\\Database\\Migrations\\20250623121549_addSeedDataToEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71EA2217-3E56-414E-867D-4220C8FCFD2F}|..\\Database\\Database.csproj|c:\\users\\khaled\\desktop\\task backend\\database\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1295E086-7B6A-441B-AD77-CC22036F91E0}|CompanyTask.csproj|c:\\users\\khaled\\desktop\\task backend\\companytask\\middlewares\\exceptionhandlemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1295E086-7B6A-441B-AD77-CC22036F91E0}|CompanyTask.csproj|solutionrelative:middlewares\\exceptionhandlemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1295E086-7B6A-441B-AD77-CC22036F91E0}|CompanyTask.csproj|c:\\users\\khaled\\desktop\\task backend\\companytask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1295E086-7B6A-441B-AD77-CC22036F91E0}|CompanyTask.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75B34809-E879-44C2-A769-66FD357C1A1F}|..\\DTOs\\DTOs.csproj|c:\\users\\khaled\\desktop\\task backend\\dtos\\employeedtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Task Backend\\Database\\Migrations\\20250623104616_firstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Task Backend\\Database\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Task Backend\\Services\\EmployeeServices\\EmployeeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Task Backend\\Services\\EmployeeServices\\IEmployeeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Task Backend\\Database\\Entities\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Task Backend\\DTOs\\EmployeeDTOs\\EmployeeDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,155 +93,212 @@
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20250623121549_addSeedDataToEmployee.cs",
-              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Database\\Migrations\\20250623121549_addSeedDataToEmployee.cs",
-              "RelativeDocumentMoniker": "..\\Database\\Migrations\\20250623121549_addSeedDataToEmployee.cs",
-              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Database\\Migrations\\20250623121549_addSeedDataToEmployee.cs",
-              "RelativeToolTip": "..\\Database\\Migrations\\20250623121549_addSeedDataToEmployee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T12:15:49.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Database\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "..\\Database\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Database\\AppDbContext.cs",
-              "RelativeToolTip": "..\\Database\\AppDbContext.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T10:22:54.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Services\\EmployeeServices\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "..\\Services\\EmployeeServices\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Services\\EmployeeServices\\EmployeeService.cs",
-              "RelativeToolTip": "..\\Services\\EmployeeServices\\EmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T10:36:08.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IEmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Services\\EmployeeServices\\IEmployeeService.cs",
-              "RelativeDocumentMoniker": "..\\Services\\EmployeeServices\\IEmployeeService.cs",
-              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Services\\EmployeeServices\\IEmployeeService.cs",
-              "RelativeToolTip": "..\\Services\\EmployeeServices\\IEmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T10:35:54.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Task Backend\\CompanyTask\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Task Backend\\CompanyTask\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T11:31:44.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Task Backend\\CompanyTask\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Task Backend\\CompanyTask\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T11:25:58.515Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ExceptionHandleMiddleWare.cs",
-              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Task Backend\\CompanyTask\\MiddleWares\\ExceptionHandleMiddleWare.cs",
-              "RelativeDocumentMoniker": "MiddleWares\\ExceptionHandleMiddleWare.cs",
-              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Task Backend\\CompanyTask\\MiddleWares\\ExceptionHandleMiddleWare.cs",
-              "RelativeToolTip": "MiddleWares\\ExceptionHandleMiddleWare.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T11:36:20.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Database\\Entities\\Employee.cs",
-              "RelativeDocumentMoniker": "..\\Database\\Entities\\Employee.cs",
-              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Database\\Entities\\Employee.cs",
-              "RelativeToolTip": "..\\Database\\Entities\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T10:17:34.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Task Backend\\CompanyTask\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\CompanyTask\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Task Backend\\CompanyTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\CompanyTask\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-23T11:25:10.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\Services\\EmployeeServices\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\EmployeeServices\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\Services\\EmployeeServices\\EmployeeService.cs",
+              "RelativeToolTip": "..\\Services\\EmployeeServices\\EmployeeService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T16:54:27.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\Services\\EmployeeServices\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\EmployeeServices\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\Services\\EmployeeServices\\IEmployeeService.cs",
+              "RelativeToolTip": "..\\Services\\EmployeeServices\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T16:52:58.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\DTOs\\EmployeeDTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "..\\DTOs\\EmployeeDTOs\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\DTOs\\EmployeeDTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "..\\DTOs\\EmployeeDTOs\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T16:51:56.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\CompanyTask\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\CompanyTask\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:31:44.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExceptionHandleMiddleWare.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\CompanyTask\\MiddleWares\\ExceptionHandleMiddleWare.cs",
+              "RelativeDocumentMoniker": "MiddleWares\\ExceptionHandleMiddleWare.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\CompanyTask\\MiddleWares\\ExceptionHandleMiddleWare.cs",
+              "RelativeToolTip": "MiddleWares\\ExceptionHandleMiddleWare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:36:20.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateEmployeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\DTOs\\EmployeeDTOs\\UpdateEmployeDto.cs",
+              "RelativeDocumentMoniker": "..\\DTOs\\EmployeeDTOs\\UpdateEmployeDto.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\DTOs\\EmployeeDTOs\\UpdateEmployeDto.cs",
+              "RelativeToolTip": "..\\DTOs\\EmployeeDTOs\\UpdateEmployeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T16:50:23.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\DTOs\\EmployeeDTOs\\AddEmployeeDto.cs",
+              "RelativeDocumentMoniker": "..\\DTOs\\EmployeeDTOs\\AddEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\DTOs\\EmployeeDTOs\\AddEmployeeDto.cs",
+              "RelativeToolTip": "..\\DTOs\\EmployeeDTOs\\AddEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T16:52:33.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Database\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Task Backend\\Database\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Database\\AppDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\Task Backend\\Database\\AppDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T10:22:54.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Services\\EmployeeServices\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Task Backend\\Services\\EmployeeServices\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Services\\EmployeeServices\\EmployeeService.cs",
+              "RelativeToolTip": "..\\..\\..\\Task Backend\\Services\\EmployeeServices\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T10:36:08.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Services\\EmployeeServices\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Task Backend\\Services\\EmployeeServices\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Services\\EmployeeServices\\IEmployeeService.cs",
+              "RelativeToolTip": "..\\..\\..\\Task Backend\\Services\\EmployeeServices\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T10:35:54.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\CompanyTask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\CompanyTask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:25:58.515Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "20250623121549_addSeedDataToEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Database\\Migrations\\20250623121549_addSeedDataToEmployee.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Task Backend\\Database\\Migrations\\20250623121549_addSeedDataToEmployee.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Database\\Migrations\\20250623121549_addSeedDataToEmployee.cs",
+              "RelativeToolTip": "..\\..\\..\\Task Backend\\Database\\Migrations\\20250623121549_addSeedDataToEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:15:49.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Database\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Task Backend\\Database\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Database\\Entities\\Employee.cs",
+              "RelativeToolTip": "..\\..\\..\\Task Backend\\Database\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T10:17:34.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "EmployeeDto.cs",
               "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Task Backend\\DTOs\\EmployeeDTOs\\EmployeeDto.cs",
-              "RelativeDocumentMoniker": "..\\DTOs\\EmployeeDTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Task Backend\\DTOs\\EmployeeDTOs\\EmployeeDto.cs",
               "ToolTip": "C:\\Users\\Khaled\\Desktop\\Task Backend\\DTOs\\EmployeeDTOs\\EmployeeDto.cs",
-              "RelativeToolTip": "..\\DTOs\\EmployeeDTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "..\\..\\..\\Task Backend\\DTOs\\EmployeeDTOs\\EmployeeDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T10:40:33.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T10:40:33.632Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "20250623104616_firstMigration.cs",
               "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Database\\Migrations\\20250623104616_firstMigration.cs",
-              "RelativeDocumentMoniker": "..\\Database\\Migrations\\20250623104616_firstMigration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Task Backend\\Database\\Migrations\\20250623104616_firstMigration.cs",
               "ToolTip": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Database\\Migrations\\20250623104616_firstMigration.cs",
-              "RelativeToolTip": "..\\Database\\Migrations\\20250623104616_firstMigration.cs",
+              "RelativeToolTip": "..\\..\\..\\Task Backend\\Database\\Migrations\\20250623104616_firstMigration.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T10:46:17.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T10:46:17.047Z"
             }
           ]
         }

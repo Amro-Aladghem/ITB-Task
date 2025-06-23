@@ -1,0 +1,19 @@
+#container{
+    width: 98vw;
+    height: 98vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#add-btn{
+    padding: 10px 10px;
+    font-weight: bold;
+    background-color: aqua;
+    margin-top: 10px;
+}
+
+.input-cont{
+    display: flex;
+    flex-direction: column;
+}

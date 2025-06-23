@@ -21,6 +21,8 @@ function handleDeleteEmployee(employeeId) {
 function SetEmployeeInTheTable(employee) {
   $("#container").append(
     `
+         <h1>Your System Employees</h1>
+         <button id="add-btn">Add New Employee</button>
          <table id="empTable" border=3>
             <tr>
                 <th>employeId</th>
@@ -29,6 +31,7 @@ function SetEmployeeInTheTable(employee) {
                 <th>level</th>
                 <th>dateOfJoined</th>
                 <th>deleteAction</th>
+                <th>updateAction</th>
             </tr>
             <tfoot>
                 <tr>
@@ -59,6 +62,13 @@ function SetEmployeeInTheTable(employee) {
                            delete
                          </button>
                         </td>
+                        <td>
+                         <button class='update-btn' data-employeeid='${
+                           employee[index].id
+                         }'>
+                           update
+                         </button>
+                        </td>
                     </tr>
                 `
     );
@@ -81,6 +91,18 @@ $.ajax({
 });
 
 $(document).on("click", ".delete-btn", function () {
+  if (!window.confirm("Are you sure to delete this employee?")) {
+    return;
+  }
   const employeeid = $(this).data("employeeid");
   handleDeleteEmployee(employeeid);
+});
+
+$(document).on("click", ".update-btn", function () {
+  const employeeid = $(this).data("employeeid");
+  window.location.href = `UpdateEmployee.html?employeeId=${employeeid}`;
+});
+
+$(document).on("click", "#add-btn", function () {
+  window.location.href = `AddEmployee.html`;
 });

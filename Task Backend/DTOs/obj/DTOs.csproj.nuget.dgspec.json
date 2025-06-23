@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Khaled\\Desktop\\Task Backend\\DTOs\\DTOs.csproj": {}
+    "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\DTOs\\DTOs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Khaled\\Desktop\\Task Backend\\Database\\Database.csproj": {
+    "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\Database\\Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Database\\Database.csproj",
+        "projectUniqueName": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\Database\\Database.csproj",
         "projectName": "Database",
-        "projectPath": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Database\\Database.csproj",
+        "projectPath": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\Database\\Database.csproj",
         "packagesPath": "C:\\Users\\Khaled\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Database\\obj\\",
+        "outputPath": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\Database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\Khaled\\Desktop\\Task Backend\\DTOs\\DTOs.csproj": {
+    "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\DTOs\\DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Khaled\\Desktop\\Task Backend\\DTOs\\DTOs.csproj",
+        "projectUniqueName": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\DTOs\\DTOs.csproj",
         "projectName": "DTOs",
-        "projectPath": "C:\\Users\\Khaled\\Desktop\\Task Backend\\DTOs\\DTOs.csproj",
+        "projectPath": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\DTOs\\DTOs.csproj",
         "packagesPath": "C:\\Users\\Khaled\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Khaled\\Desktop\\Task Backend\\DTOs\\obj\\",
+        "outputPath": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\DTOs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -109,8 +109,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Khaled\\Desktop\\Task Backend\\Database\\Database.csproj": {
-                "projectPath": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Database\\Database.csproj"
+              "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\Database\\Database.csproj": {
+                "projectPath": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\Database\\Database.csproj"
               }
             }
           }

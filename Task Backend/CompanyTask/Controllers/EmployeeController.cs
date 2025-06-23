@@ -30,6 +30,57 @@ namespace CompanyTask.Controllers
             return Ok(employees);
         }
 
+        [HttpPost("add")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        public async Task<ActionResult> AddNewEmployee([FromBody] AddEmployeeDto addEmployeeDto)
+        {
+            if (!_employeeService.IsAddEmployeeInfoCorrect(addEmployeeDto))
+                return BadRequest("Data Is not valied!");
+
+            bool IsDone = await _employeeService.AddNewEmployee(addEmployeeDto);
+
+            if (!IsDone)
+                return StatusCode(StatusCodes.Status500InternalServerError, "Failed to add Employee!");
+
+            return Ok(IsDone);
+        }
+
+        [HttpGet("{employeeId}")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        public async Task<ActionResult> GetEmployeeInfo(int employeeId)
+        {
+            EmployeeDto? employeeDto = await _employeeService.GetEmployeeInfo(employeeId);
+
+            if (employeeDto is null)
+                return NotFound("No Employee found for this Id!");
+
+            return Ok(employeeDto);
+        }
+
+        [HttpPut("update")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        public async Task<ActionResult> UpdateEmployee([FromBody] UpdateEmployeDto updateEmploye)
+        {
+            if (!_employeeService.IsUpdateEmployeeInfoCorrect(updateEmploye))
+                return BadRequest("Invalied or empty data!");
+
+            bool IsDene = await _employeeService.UpdateEmployee(updateEmploye);
+
+            if (!IsDene)
+                return NotFound("No Employee with this Id!");
+
+            return Ok(IsDene);
+        }
+
         [HttpDelete("{employeeId}")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
@@ -43,5 +94,7 @@ namespace CompanyTask.Controllers
 
             return Ok(isDone);
         }
+
+
     }
 }

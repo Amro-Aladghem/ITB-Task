@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+i/X6f7Ko/I=",
+  "dgSpecHash": "HLrfrqSPdv8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Khaled\\Desktop\\Task Backend\\Database\\Database.csproj",
+  "projectFilePath": "C:\\Users\\Khaled\\Desktop\\ITB Task\\Task Backend\\Database\\Database.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Khaled\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Khaled\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
